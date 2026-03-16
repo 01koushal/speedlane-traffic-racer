@@ -6,7 +6,7 @@ The game gets progressively harder as the speed increases, making it a fun refle
 
 ---
 Download:https://koushal-pala.itch.io/speedlane
-
+---
 ## 🎮 Gameplay
 
 * Control your car and avoid incoming traffic
@@ -70,16 +70,6 @@ python app.py
 
 ---
 
-## 📷 Gameplay Screenshot
-
-Add a screenshot of your game here:
-
-```
-screenshots/gameplay.png
-```
-
----
-
 ## 🚀 Future Improvements
 
 * Add **multiple levels**
@@ -90,9 +80,7 @@ screenshots/gameplay.png
 
 ---
 
-## 📜 License
 
-This project is open source and available under the MIT License.
 
 ---
 
